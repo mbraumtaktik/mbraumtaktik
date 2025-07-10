@@ -3,3 +3,6 @@
 - 🌱 I’m currently learning about my privileges ... and some python/javascript
 - 💞️ I’m looking forward to collaborate on how to live together!
 - 📫 How to reach me? ... Here?
+- 💞️ using and loving [ServBay](https://www.servbay.com/)
+  ![ServBay_Logo](logo black@256px.png)
+  
